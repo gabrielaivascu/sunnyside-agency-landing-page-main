@@ -4,7 +4,8 @@
   "description": "challenge 1",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass --watch scss -o css"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/gabrielaivascu/FrontendChallenge1/issues"
   },
-  "homepage": "https://github.com/gabrielaivascu/FrontendChallenge1#readme"
+  "homepage": "https://github.com/gabrielaivascu/FrontendChallenge1#readme",
+  "dependencies": {
+    "node-sass": "^7.0.1"
+  }
 }
