@@ -1,0 +1,19 @@
+{
+  "name": "sunnyside-agency-landing-page-main",
+  "version": "1.0.0",
+  "description": "challenge 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielaivascu/FrontendChallenge1.git"
+  },
+  "author": "Gabi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielaivascu/FrontendChallenge1/issues"
+  },
+  "homepage": "https://github.com/gabrielaivascu/FrontendChallenge1#readme"
+}
